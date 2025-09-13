@@ -1,4 +1,3 @@
-import pytest
 
 from lib.palindrome import longest_palindromic_substring
 
